@@ -1,0 +1,17 @@
+div {
+  color: #358DF7;
+}
+
+.app {
+  margin: 25px auto;
+  width: 75%;
+}
+
+.selected {
+  background-color: #FBE08C;
+  width: 100%
+}
+
+.title {
+  text-align: center;
+}
